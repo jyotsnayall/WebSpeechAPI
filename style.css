@@ -1,0 +1,12 @@
+* {
+    font-family: 'Trebuchet MS';
+}
+
+body {
+    background-color: beige;
+}
+
+h1,p {
+    color: black;
+    text-align: center;
+}
